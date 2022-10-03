@@ -5,7 +5,7 @@ This course will take you through the basic theory required to understand quantu
 
 ----
 
-## Theory
+## Theory and Tutorials
 
 <table class="tg">
   <tr>
@@ -20,6 +20,17 @@ This course will take you through the basic theory required to understand quantu
     <td class="tg-yw4l">What is Quantum Machine Learning</td>
     <td class="tg-yw4l">Reading Material related to QML and background</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/What_is_Quantum_Machine_Learning.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
+  
+  
+  
+  <tr>
+    <td class="tg-yw4l">2.</td>
+    <td class="tg-yw4l">Basic Qubit Rotation</td>
+    <td class="tg-yw4l">Wish to implement the rotation quantum circuit:</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Qubit_Rotation.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
   </tr>
