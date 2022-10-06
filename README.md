@@ -81,6 +81,16 @@ This course will take you through the basic theory required to understand quantu
   </tr>
   
   
+  <tr>
+    <td class="tg-yw4l">2.</td>
+    <td class="tg-yw4l">Data Re-Uploading Classifier</td>
+    <td class="tg-yw4l">Making a quantum classifier by only using single qubit</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Data_reuploading_Classifier.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
+  
+  
   
 
  
