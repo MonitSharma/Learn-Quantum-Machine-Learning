@@ -54,9 +54,36 @@ This course will take you through the basic theory required to understand quantu
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
   </tr>
+  
+  
+  
 
  
   </table> 
 
+
+
+------
+------
+
+## Quantum Machine Learning Tutorials
+
+<table class="tg">
+
+
+ <tr>
+    <td class="tg-yw4l">1.</td>
+    <td class="tg-yw4l">Quantum Variational Classifier</td>
+    <td class="tg-yw4l">Using variational approach to classify Iris dataset</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Variational_Classifier_Iris.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
+  
+  
+  
+
+ 
+  </table> 
 
 
