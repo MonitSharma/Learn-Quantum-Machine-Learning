@@ -80,6 +80,13 @@ This course will take you through the basic theory required to understand quantu
 
 <table class="tg">
 
+<tr>
+    <th class="tg-yw4l"><b>Sr. No</b></th>
+    <th class="tg-yw4l"><b>Title</b></th>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Notebook</b></th>
+  </tr>
+
 
  <tr>
     <td class="tg-yw4l">1.</td>
