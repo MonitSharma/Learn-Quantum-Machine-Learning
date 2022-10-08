@@ -5,7 +5,7 @@ This course will take you through the basic theory required to understand quantu
 
 ----
 
-## Theory and Tutorials
+## Theory and Learn via coding
 
 <table class="tg">
   <tr>
