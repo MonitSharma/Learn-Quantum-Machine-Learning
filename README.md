@@ -56,6 +56,16 @@ This course will take you through the basic theory required to understand quantu
   </tr>
   
   
+  <tr>
+    <td class="tg-yw4l">5.</td>
+    <td class="tg-yw4l">Adjoint Differentiation</td>
+    <td class="tg-yw4l">Adjoint differentiation straddles two strategies, taking benefits from each.</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Adjoint_Differentiation.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
+  
+  
   
 
  
