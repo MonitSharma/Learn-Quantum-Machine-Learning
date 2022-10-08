@@ -66,6 +66,16 @@ This course will take you through the basic theory required to understand quantu
   </tr>
   
   
+  <tr>
+    <td class="tg-yw4l">6.</td>
+    <td class="tg-yw4l">Gaussian Transformation </td>
+    <td class="tg-yw4l">Basic principles of continuous variable (CV) photonic devices.</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Gaussian_Transformation.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
+  
+  
   
 
  
