@@ -86,7 +86,7 @@ This course will take you through the basic theory required to understand quantu
 ------
 ------
 
-## Quantum Machine Learning Tutorials
+## Quantum Machine Learning Tutorials and Worked Examples
 
 <table class="tg">
 
