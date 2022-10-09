@@ -88,6 +88,8 @@ This course will take you through the basic theory required to understand quantu
 
 ## Quantum Machine Learning Tutorials and Worked Examples
 
+Check the [repository](https://github.com/MonitSharma/Quantum-Machine-Learning-Projects) with full details regarding some of the worked examples.
+
 <table class="tg">
 
 <tr>
