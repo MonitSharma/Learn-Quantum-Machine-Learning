@@ -75,6 +75,15 @@ This course will take you through the basic theory required to understand quantu
 </a></td>
   </tr>
   
+  <tr>
+    <td class="tg-yw4l">7.</td>
+    <td class="tg-yw4l">Plugins and Hybrid Computation </td>
+    <td class="tg-yw4l">Introduces the notion of hybrid computation by combining several PennyLane plugins.</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Hybrid_Computation.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
+  
   
   
 
