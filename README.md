@@ -122,7 +122,7 @@ This course will take you through the basic theory required to understand quantu
     <td class="tg-yw4l">3.</td>
     <td class="tg-yw4l">Galaxy Detection using QML</td>
     <td class="tg-yw4l">Developing galaxy detection technique from the telescope image via QML.</td>
-    <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Quantum-Machine-Learning-Projects/tree/main/Galaxy%20Detection%20using%20Quantum%20Machine%20Learning">
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Galaxy_Detection_using_QNN.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
   </tr>
