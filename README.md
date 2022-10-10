@@ -85,6 +85,15 @@ This course will take you through the basic theory required to understand quantu
   </tr>
   
   
+  <tr>
+    <td class="tg-yw4l">8.</td>
+    <td class="tg-yw4l">Noisy Circuits </td>
+    <td class="tg-yw4l"> Learn how to simulate noisy circuits using built-in functionality in PennyLane</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Noisy_Cricuits.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
+  
   
 
  
