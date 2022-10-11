@@ -3,9 +3,12 @@
 This course will take you through the basic theory required to understand quantum machine learning. 
 
 
-----
 
-## Theory and Learn via coding
+
+## Getting Started (Notes and Coding tutorials)
+
+Here you can discover the basic tools needed to use PennyLane through simple demonstrations. Learn about training a circuit to rotate a qubit, machine learning tools to optimize quantum circuits, and introductory examples of photonic quantum computing.
+
 
 <table class="tg">
   <tr>
@@ -95,6 +98,17 @@ This course will take you through the basic theory required to understand quantu
   </tr>
   
   
+  
+  <tr>
+    <td class="tg-yw4l">9.</td>
+    <td class="tg-yw4l">Penny Lane + AWS braket </td>
+    <td class="tg-yw4l"> Computing gradients with Pennylane and AWS Braket</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Running_Pennylane_in_AWS_Bracket.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
+  
+  
 
  
   </table> 
@@ -102,6 +116,33 @@ This course will take you through the basic theory required to understand quantu
 
 
 ------
+
+## Optimization
+Here you will find demonstrations showcasing quantum optimization. Explore various topics and ideas, such as the shots-frugal Rosalin optimizer, the variational quantum thermalizer, or barren plateaus in quantum neural networks.
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l"><b>Sr. No</b></th>
+    <th class="tg-yw4l"><b>Title</b></th>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Notebook</b></th>
+  </tr>
+  
+  <tr>
+    <td class="tg-yw4l">1.</td>
+    <td class="tg-yw4l">Introduction to QAOA</td>
+    <td class="tg-yw4l">The applications of QAOA are broad and far-reaching, the performance of the algorithm is of great interest to the quantum computing research community</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Intro_to_QAOA.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
+  
+   
+  </table> 
+
+
+
+
 ------
 
 ## Quantum Machine Learning Tutorials and Worked Examples
