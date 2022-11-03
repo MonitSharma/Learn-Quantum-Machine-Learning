@@ -141,6 +141,29 @@ Here you will find demonstrations showcasing quantum optimization. Explore vario
   </table> 
 
 
+---------------
+
+## Quantum Machine Learning
+<table class="tg">
+
+<tr>
+    <th class="tg-yw4l"><b>Sr. No</b></th>
+    <th class="tg-yw4l"><b>Title</b></th>
+    <th class="tg-yw4l"><b>Description</b></th>
+    <th class="tg-yw4l"><b>Notebook</b></th>
+  </tr>
+
+
+ <tr>
+    <td class="tg-yw4l">1.</td>
+    <td class="tg-yw4l">Quantum models as Fourier series</td>
+    <td class="tg-yw4l">This demonstration is based on the paper The effect of data encoding on the expressive power of variational quantum machine learning models</td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Quantum_Models_as_Fourier_Series.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
+  
+  </table> 
 
 
 ------
