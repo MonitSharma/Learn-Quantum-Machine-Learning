@@ -212,6 +212,16 @@ Check the [repository](https://github.com/MonitSharma/Quantum-Machine-Learning-P
   </tr>
   
   
+  <tr>
+    <td class="tg-yw4l">4.</td>
+    <td class="tg-yw4l">QCD Equation of State Classification using QSVM</td>
+    <td class="tg-yw4l">Developing a Quantum Support Vector Machine model for Quantum Chromodynamics equation of state.</td>
+    <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Quantum-Machine-Learning-Projects/tree/main/Quantum%20Support%20Vector%20Machine%20on%20QCD">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+</a></td>
+  </tr>
+  
+  
   
 
  
