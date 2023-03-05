@@ -228,3 +228,25 @@ Check the [repository](https://github.com/MonitSharma/Quantum-Machine-Learning-P
   </table> 
 
 
+-----
+
+## Quantum Machine Learning with Qiskit
+
+| Sr.No | Title                                          | Description                                                                                      | Notebook                                                                                                                            |
+|-------|------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | Mathematical Introduction                      | Introduction to mathematical concepts used in quantum computing                                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)                      |
+| 2     | Introduction to Qiskit                         | Overview of the Qiskit framework and its components                                               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)                      |
+| 3     | Classical and Quantum Probability Distribution | Comparison of classical and quantum probability distributions, including the Bloch sphere         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)                      |
+| 4     | Measurement and Mixed states                    | Understanding quantum measurement and mixed states                                                | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)                      |
+| 5     | Evolution in closed and open systems            | Dynamics of quantum systems in closed and open systems                                            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)                      |
+| 6     | Classical and Quantum Many body physics         | Study of many-body systems from classical and quantum perspectives, including entanglement       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)                      |
+| 7     | Gate model quantum computing                    | Implementation of quantum algorithms using gate operations and circuit models                    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)                      |
+| 8     | Adiabatic quantum computing                     | Introduction to adiabatic quantum computing, including its physical principles and algorithms     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)                      |
+| 9     | Variational circuits                            | Overview of variational circuits and their applications                                           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)                      |
+| 10    | Sampling a thermal state                        | Explanation of thermal states in quantum systems and sampling techniques                          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)                      |
+| 11    | Discrete optimization and ensemble learning     | Application of quantum computing to discrete optimization and ensemble learning problems         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)                      |
+| 12    | Kernel methods                                 | Introduction to kernel methods and their application in quantum computing                        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)                      |
+| 13    | Training a probabilistic model                  | Explanation of probabilistic models and how to train them using quantum computing techniques  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)    |   
+| 14 | Quantum phase estimation | Quantum algorithm for estimating the eigenvalues of a unitary operator  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)    |
+| 15 | Quantum matrix inversion | Introduction to quantum matrix inversion and its applications |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)    |
+
