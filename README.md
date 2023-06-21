@@ -16,6 +16,7 @@ Here you can discover the basic tools needed to use PennyLane through simple dem
     <th class="tg-yw4l"><b>Title</b></th>
     <th class="tg-yw4l"><b>Description</b></th>
     <th class="tg-yw4l"><b>Notebook</b></th>
+    <th class="tg-yw4l"><b>Medium</b></th>
   </tr>
   
   <tr>
@@ -25,6 +26,9 @@ Here you can discover the basic tools needed to use PennyLane through simple dem
     <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/What_is_Quantum_Machine_Learning.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/What_is_Quantum_Machine_Learning.ipynb">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width = '' >
+      </a></td>
   </tr>
   
   
@@ -36,6 +40,9 @@ Here you can discover the basic tools needed to use PennyLane through simple dem
     <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Qubit_Rotation.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/What_is_Quantum_Machine_Learning.ipynb">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width = '' >
+      </a></td>
   </tr>
   
   
@@ -46,6 +53,9 @@ Here you can discover the basic tools needed to use PennyLane through simple dem
     <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Quantum_Gradients_with_Backpropagation.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/What_is_Quantum_Machine_Learning.ipynb">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width = '' >
+      </a></td>
   </tr>
   
   
@@ -56,6 +66,9 @@ Here you can discover the basic tools needed to use PennyLane through simple dem
     <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Quantum_gradients_with_backpropagation.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/What_is_Quantum_Machine_Learning.ipynb">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width = '' >
+      </a></td>
   </tr>
   
   
@@ -65,6 +78,9 @@ Here you can discover the basic tools needed to use PennyLane through simple dem
     <td class="tg-yw4l">Adjoint differentiation straddles two strategies, taking benefits from each.</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Adjoint_Differentiation.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+      <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/What_is_Quantum_Machine_Learning.ipynb">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width = '' >
+      </a></td>
 </a></td>
   </tr>
   
@@ -75,6 +91,9 @@ Here you can discover the basic tools needed to use PennyLane through simple dem
     <td class="tg-yw4l">Basic principles of continuous variable (CV) photonic devices.</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Gaussian_Transformation.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+      <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/What_is_Quantum_Machine_Learning.ipynb">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width = '' >
+      </a></td>
 </a></td>
   </tr>
   
@@ -84,6 +103,9 @@ Here you can discover the basic tools needed to use PennyLane through simple dem
     <td class="tg-yw4l">Introduces the notion of hybrid computation by combining several PennyLane plugins.</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Hybrid_Computation.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+      <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/What_is_Quantum_Machine_Learning.ipynb">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width = '' >
+      </a></td>
 </a></td>
   </tr>
   
@@ -94,6 +116,9 @@ Here you can discover the basic tools needed to use PennyLane through simple dem
     <td class="tg-yw4l"> Learn how to simulate noisy circuits using built-in functionality in PennyLane</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Noisy_Cricuits.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+      <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/What_is_Quantum_Machine_Learning.ipynb">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width = '' >
+      </a></td>
 </a></td>
   </tr>
   
@@ -105,6 +130,9 @@ Here you can discover the basic tools needed to use PennyLane through simple dem
     <td class="tg-yw4l"> Computing gradients with Pennylane and AWS Braket</td>
     <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Running_Pennylane_in_AWS_Bracket.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
+      <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/What_is_Quantum_Machine_Learning.ipynb">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width = '' >
+      </a></td>
 </a></td>
   </tr>
   
@@ -126,6 +154,7 @@ Here you will find demonstrations showcasing quantum optimization. Explore vario
     <th class="tg-yw4l"><b>Title</b></th>
     <th class="tg-yw4l"><b>Description</b></th>
     <th class="tg-yw4l"><b>Notebook</b></th>
+    <th class="tg-yw4l"><b>Medium</b></th>
   </tr>
   
   <tr>
@@ -135,6 +164,9 @@ Here you will find demonstrations showcasing quantum optimization. Explore vario
     <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Intro_to_QAOA.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/What_is_Quantum_Machine_Learning.ipynb">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width = '' >
+      </a></td>
   </tr>
   
    
@@ -151,6 +183,7 @@ Here you will find demonstrations showcasing quantum optimization. Explore vario
     <th class="tg-yw4l"><b>Title</b></th>
     <th class="tg-yw4l"><b>Description</b></th>
     <th class="tg-yw4l"><b>Notebook</b></th>
+  <th class="tg-yw4l"><b>Medium</b></th>
   </tr>
 
 
@@ -161,6 +194,9 @@ Here you will find demonstrations showcasing quantum optimization. Explore vario
     <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Quantum_Models_as_Fourier_Series.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
+   <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/What_is_Quantum_Machine_Learning.ipynb">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width = '' >
+      </a></td>
   </tr>
   
   </table> 
@@ -179,6 +215,7 @@ Check the [repository](https://github.com/MonitSharma/Quantum-Machine-Learning-P
     <th class="tg-yw4l"><b>Title</b></th>
     <th class="tg-yw4l"><b>Description</b></th>
     <th class="tg-yw4l"><b>Notebook</b></th>
+  <th class="tg-yw4l"><b>Medium</b></th>
   </tr>
 
 
@@ -189,6 +226,9 @@ Check the [repository](https://github.com/MonitSharma/Quantum-Machine-Learning-P
     <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Variational_Classifier_Iris.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
+   <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/What_is_Quantum_Machine_Learning.ipynb">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width = '' >
+      </a></td>
   </tr>
   
   
@@ -199,6 +239,9 @@ Check the [repository](https://github.com/MonitSharma/Quantum-Machine-Learning-P
     <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Data_reuploading_Classifier.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/What_is_Quantum_Machine_Learning.ipynb">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width = '' >
+      </a></td>
   </tr>
   
   
@@ -209,6 +252,9 @@ Check the [repository](https://github.com/MonitSharma/Quantum-Machine-Learning-P
     <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Galaxy_Detection_using_QNN.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/What_is_Quantum_Machine_Learning.ipynb">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width = '' >
+      </a></td>
   </tr>
   
   
@@ -219,6 +265,9 @@ Check the [repository](https://github.com/MonitSharma/Quantum-Machine-Learning-P
     <td class="tg-yw4l"><a href="https://github.com/MonitSharma/Quantum-Machine-Learning-Projects/tree/main/Quantum%20Support%20Vector%20Machine%20on%20QCD">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" width = '' >
 </a></td>
+    <td class="tg-yw4l"><a href="https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/What_is_Quantum_Machine_Learning.ipynb">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width = '' >
+      </a></td>
   </tr>
   
   
@@ -232,9 +281,9 @@ Check the [repository](https://github.com/MonitSharma/Quantum-Machine-Learning-P
 
 ## Quantum Machine Learning with Qiskit
 
-| Sr.No | Title                                          | Description                                                                                      | Notebook                                                                                                                            |
-|-------|------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| 1     | Mathematical Introduction                      | Introduction to mathematical concepts used in quantum computing                                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Mathematical_Introduction.ipynb)                      |
+| Sr.No | Title                                          | Description                                                                                      | Notebook                                                                                                                            | Medium                                            |
+|-------|------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------| ---------------------------------------------------------------------------------------|
+| 1     | Mathematical Introduction                      | Introduction to mathematical concepts used in quantum computing                                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Mathematical_Introduction.ipynb)                   |  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]()
 | 2     | Introduction to Qiskit                         | Overview of the Qiskit framework and its components                                               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Introduction_to_Qiskit.ipynb)                      |
 | 3     | Classical and Quantum Probability Distribution | Comparison of classical and quantum probability distributions, including the Bloch sphere         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Classical_and_Quantum_Probabilities.ipynb)                      |
 | 4     | Measurement and Mixed states                    | Understanding quantum measurement and mixed states                                                | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/MonitSharma/Learn-Quantum-Machine-Learning/blob/main/Measurement_and_Mixed_States.ipynb)                      |
