@@ -1,0 +1,7 @@
+numpy
+qiskit
+qiskit-aer
+pylatexenc
+matplotlib
+pennylane
+jax
